@@ -7,9 +7,6 @@ This repository contains my daily Data Structures and Algorithms practice in Jav
 - ArrayList
 - HashMap
 - Strings
-- LinkedList
-- Stack
-- Queue
 
 ## Goal
 - Solve DSA problems consistently
